@@ -6,6 +6,8 @@ distance calculator chart on esp8266
 **Required**
   ***Library*** : ESP8266, Ultrasonic , Ultrasonic_Lib
   ***Tools*** : ESP8266FS
+****IMPORTANT****
+esp8266wifi.h
 
 ## More Help ##
 **Follow This**
